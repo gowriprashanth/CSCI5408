@@ -1,0 +1,1 @@
+SELECT count(id) as Movies_released_after_2000 FROM lab_1.movies where year>2000;

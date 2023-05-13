@@ -1,0 +1,1 @@
+SELECT count(id) as Directors_count FROM lab_1.directors;

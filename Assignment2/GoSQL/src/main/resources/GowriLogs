@@ -1,0 +1,31 @@
+Gowri/~/user login success/~/2023-07-12 18:19:14/~/
+Gowri/~/DELETE FROM Persons/~/2023-07-12 18:19:26/~/
+Gowri/~/user login success/~/2023-07-12 18:19:56/~/
+Gowri/~/DELETE FROM Persons/~/2023-07-12 18:20:13/~/
+Gowri/~/user login success/~/2023-07-12 18:22:45/~/
+Gowri/~/user login success/~/2023-07-12 18:44:32/~/
+Gowri/~/CREATE TABLE Persons ( PersonID int, LastName varchar, FirstName varchar, Address varchar, City varchar )/~/2023-07-12 18:44:41/~/
+Gowri/~/user login success/~/2023-07-12 19:07:51/~/
+Gowri/~/user login success/~/2023-07-12 19:08:28/~/
+Gowri/~/user login success/~/2023-07-12 19:08:56/~/
+Gowri/~/SELECT * FROM books/~/2023-07-12 19:09:05/~/
+Gowri/~/user login success/~/2023-07-12 19:09:42/~/
+Gowri/~/SELECT * FROM Persons/~/2023-07-12 19:09:54/~/
+Gowri/~/user login success/~/2023-07-12 19:11:58/~/
+Gowri/~/SELECT * FROM books/~/2023-07-12 19:12:12/~/
+Gowri/~/SELECT bookName, pages FROM books/~/2023-07-12 19:13:31/~/
+Gowri/~/SELECT * FROM books WHERE bookId = 1/~/2023-07-12 19:20:14/~/
+Gowri/~/user login success/~/2023-07-12 19:23:01/~/
+Gowri/~/INSERT INTO books VALUES (12,newbook,100)/~/2023-07-12 19:23:24/~/
+Gowri/~/INSERT INTO books(bookName,page) VALUES (Jungle,100)/~/2023-07-12 19:27:39/~/
+Gowri/~/user login success/~/2023-07-12 19:40:39/~/
+Gowri/~/user login success/~/2023-07-12 19:41:20/~/
+Gowri/~/user login success/~/2023-07-12 19:42:35/~/
+Gowri/~/user login success/~/2023-07-12 19:43:38/~/
+Gowri/~/user login success/~/2023-07-12 19:46:18/~/
+Gowri/~/UPDATE books SET bookName=Ikigai, pages=300 WHERE bookId = 7/~/2023-07-12 19:46:35/~/
+Gowri/~/UPDATE books SET bookName=Two states, pages=300 WHERE bookId = 5/~/2023-07-12 19:49:40/~/
+Gowri/~/UPDATE books SET bookName=Ikigai, pages=350 WHERE bookId = 5/~/2023-07-12 19:50:06/~/
+Gowri/~/UPDATE books SET bookName=states, pages=300 WHERE bookId = 8/~/2023-07-12 19:50:33/~/
+Gowri/~/user login success/~/2023-07-12 19:57:10/~/
+Gowri/~/Delete FROM Persons/~/2023-07-12 19:58:20/~/
